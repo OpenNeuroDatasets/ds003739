@@ -1,6 +1,7 @@
 {
     "Name": "Perturbed beam-walking task",
     "ReferencesAndLinks": [
+        "https://doi.org/10.1016/j.neuroimage.2019.05.038",
         "https://doi.org/10.1523/ENEURO.0207-18.2018"
     ],
     "BIDSVersion": "v1.6.0",
